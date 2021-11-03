@@ -1,4 +1,4 @@
-# Image-Compression-Using-KMeans-Clustring
+# Image-Compression-Using-KMeans-Clustering
 
 Image Compression Using K-Means Clustering In Python.
 
